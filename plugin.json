@@ -1,0 +1,9 @@
+{
+    "name"              :"gdesign",
+    "description"       :"My first plugin",
+    "namespace"         :"HelloWorld",
+    "author"            :"Your name",
+    "type"              :"template",
+    "serviceProvider"   :null
+}
+gdesign\\Providers\\HelloWorldServiceProvider
